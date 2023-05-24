@@ -1,5 +1,9 @@
 # ChangeLogs
 
+## V2.22.0-0 - 2023/xx/xx
+
+- Update kubespray to 2.22.0 (#17)
+
 ## v2.21.0-0 - 2023/02/07
 
 - Update kubespray to 2.21.0 (#14)
